@@ -1,16 +1,16 @@
 ## Windows US International keyboard layout with AltGr/Caps mapping for Estonian characters
 
-Run `/dist/setup.exe` and restart the computer. If you want to map CapsLock to AltGr for easier typing, run `remap_caps_to_altgr.reg` and restart the computer. Both need a restart anyway.
+[Download](https://github.com/johanson/us_int_ee/raw/master/dist/release.zip) and run `/dist/setup.exe` and restart the computer. If you want to map CapsLock to AltGr for easier typing, run `remap_caps_to_altgr.reg` and restart the computer. Both need a restart anyway.
 
-If it doesn't appear automatically, look for **US_IN_EE** keyboard layout in your keyboard settings.
+If it doesn't appear automatically, look for **US_EE** keyboard layout in your keyboard settings.
 
-![Normal layout](images/layout.png)
+![Normal layout](https://raw.githubusercontent.com/johanson/us_int_ee/master/screenshots/layout.png)
 *Normal layout*
 
 
-![Caps or AltGr down](images/layoutAltGr.png)
+![Caps or AltGr down](https://raw.githubusercontent.com/johanson/us_int_ee/master/screenshots/layoutAltGr.png)
 *Caps or AltGr down*
 
 
-![Caps or AltGr down](images/layoutShftAltGr.png)
+![Caps or AltGr down](https://raw.githubusercontent.com/johanson/us_int_ee/master/screenshots/layoutShftAltGr.png)
 *Caps or AltGr + Shift down*
